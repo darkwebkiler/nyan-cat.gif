@@ -1,0 +1,10 @@
+C:\Users\ogrenci\source\repos\neOlduguBilinmeyenReiz\neOlduguBilinmeyenReiz\bin\Debug\neOlduguBilinmeyenReiz.exe.config
+C:\Users\ogrenci\source\repos\neOlduguBilinmeyenReiz\neOlduguBilinmeyenReiz\bin\Debug\neOlduguBilinmeyenReiz.exe
+C:\Users\ogrenci\source\repos\neOlduguBilinmeyenReiz\neOlduguBilinmeyenReiz\bin\Debug\neOlduguBilinmeyenReiz.pdb
+C:\Users\ogrenci\source\repos\neOlduguBilinmeyenReiz\neOlduguBilinmeyenReiz\obj\Debug\neOlduguBilinmeyenReiz.csproj.AssemblyReference.cache
+C:\Users\ogrenci\source\repos\neOlduguBilinmeyenReiz\neOlduguBilinmeyenReiz\obj\Debug\neOlduguBilinmeyenReiz.Form1.resources
+C:\Users\ogrenci\source\repos\neOlduguBilinmeyenReiz\neOlduguBilinmeyenReiz\obj\Debug\neOlduguBilinmeyenReiz.Properties.Resources.resources
+C:\Users\ogrenci\source\repos\neOlduguBilinmeyenReiz\neOlduguBilinmeyenReiz\obj\Debug\neOlduguBilinmeyenReiz.csproj.GenerateResource.cache
+C:\Users\ogrenci\source\repos\neOlduguBilinmeyenReiz\neOlduguBilinmeyenReiz\obj\Debug\neOlduguBilinmeyenReiz.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\source\repos\neOlduguBilinmeyenReiz\neOlduguBilinmeyenReiz\obj\Debug\neOlduguBilinmeyenReiz.exe
+C:\Users\ogrenci\source\repos\neOlduguBilinmeyenReiz\neOlduguBilinmeyenReiz\obj\Debug\neOlduguBilinmeyenReiz.pdb
